@@ -1,6 +1,12 @@
 # IA-DeepLearning
 Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profond
 
+## Année: 2020-2021
+###  Sujets de travaux pratiques
+* [TP1](TP1/TP1.md)
+* [TP2](TP2/TP2.md)
+* [Projet](Projet/projet.md)
+
 #### Objectifs
 
 L'objectif des travaux pratiques est de créer un projet pour comprendre
