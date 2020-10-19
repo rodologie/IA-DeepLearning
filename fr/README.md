@@ -1,16 +1,19 @@
 # IA-DeepLearning
-Sujets de travaux pratiques d'IA et Apprentissage profond
+Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profond
 
 #### Objectifs
 
 L'objectif des travaux pratiques est de créer un projet pour comprendre
-les différents aspects d'IA et Apprentissage profond. Suite à l'accomplissement
+les différents aspects d'intelligence artificielle et d'apprentissage profond. Suite à l'accomplissement
 de tous les exercices, vous serez captable de
 
--   capable de mettre en œuvre les sujets suivants :
+- mettre en œuvre les sujets suivants :
     - Le réseau de neurones artificiels
     - L’apprentissage profond
-    - L’intelligence artificielle 
+- créer des modèles de réseaux de neurones en utilisant différentes structures et fonctions d'activation
+- paramétrer et optimiser les réseaux de neurones 
+- tester les modèles existants de réseaux neuronaux récurrents comme le LTSM et les réseaux neuronaux convolutifs
+- écrire et exécuter des programmes simples dans le langage de programmation Prolog
 
 #### Instructions
 
@@ -20,12 +23,11 @@ de tous les exercices, vous serez captable de
 3.  Il est obligatoire de citer tous les sources (e.g. internet,
     groupes)
 4.  Les séances sont encadrées par 2 enseignants.
-5.  Ne pas utiliser des bibliothèques externes.
 
 #### Evaluation
 
 1.  Les travaux pratiques correspondent à 40% de votre note finale
-2.  Vous avez deux travaux pratiques. Chaque travail pratique (TP)
+2.  Vous avez deux travaux pratiques et un projet. Chaque travail pratique (TP)
     comporte plusieurs exercices. Chaque exercice est noté. 
 3.  Total points pour tous les travaux pratiques et le projet: 20
 4.  Rendu en ligne.
@@ -42,7 +44,7 @@ Votre dossier de rendu doit contenir les fichiers suivants:
 
 - a.  README: rapport d'auto-évaluation
 - b.  CONTRIBUTORS: Noms et prénoms de contributeurs
-- c.  src/ : le code source dans le répertoire *src*
+- c.  src/ : le code source dans le répertoire *src* 
 
 Votre rendu doit renommer comme groupe_N1_N2, où N1 et N2 sont les
 noms (e.g., groupe_DUPONT_SMITH.).
@@ -51,7 +53,7 @@ Ecrivez README et CONTRIBUTORS en format markdown.
 
 Le contenu de README rapport d'auto-évaluation : TP N (N: [1..2])
 
-- i.  Bibliothèques: les bibliothèques standards
+- i.  Bibliothèques
 - ii. Références: les URLs, les groupes
 - iii. Difficulté: niveau de difficulté (facile, moyenne, difficile)
 - iv. Commentaires (optionnels): remarques etc.
@@ -65,17 +67,15 @@ liste de contrôle suivante:
 -   ✅ Les noms (prénom et noms) de la binôme sont présents dans le
     fichier CONTRIBUTORS
 -   ✅ Le fichier README est complètement rempli.
--   ✅ Respectez les noms de fichiers de chaque exercice. Utilisez le
-    même nom que celui qui a été demandé dans les travaux pratiques.
 -   ✅ Votre code est bien commenté.
--   ✅ Votre code peut être compilé sans aucune erreur (et si possible,
+-   ✅ Votre code peut être exécuté sans aucune erreur (et si possible,
     sans aucun avertissement).
 
 #### Modèle de code
 
 Pour référence, vous pouvez consulter le répertoire suivant:
 <https://github.com/johnsamuelwrites/IA-DeepLearning>. Il contient des modèles de
-code pour tous les exercices des deux travaux pratiques.
+code pour tous les exercices des deux travaux pratiques et le projet.
 
 Vous pouvez le consulter en ligne en utilisant le lien ci-dessus ou le
 cloner sur votre machine à l'aide du terminal en utilisant les
@@ -85,5 +85,10 @@ commandes suivantes.
           $ git clone https://github.com/johnsamuelwrites/ProgC
           $ cd ProgC
           $ ls
+```
+
+Pour obtenir les dernières mises à jour du répertoire, vous pouvez exécuter la commande suivante
+          $ git pull
+```
 ```
 
