@@ -29,6 +29,7 @@ Implémenter le perceptron à plusieurs couches en Python avec les caractéristi
 2. Nombre d'entrées configurables 
 3. Nombre d'époques et taux de formation configurables
 4. Effectuer des prévisions
+5. Rétro-propagation du gradient
 
 Tester votre modèle avec des fonctions simple.
 
