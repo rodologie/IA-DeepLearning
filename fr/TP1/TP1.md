@@ -20,6 +20,8 @@ Implémenter perceptron en Python avec les caractéristiques suivantes
 3. Nombre d'époques et taux de formation configurables
 4. Effectuer des prévisions
 
+Tester votre modèle avec des fonctions simple.
+
 
 #### Exercice 1.3 [★★★]
 Implémenter le perceptron à plusieurs couches en Python avec les caractéristiques suivantes
@@ -27,6 +29,8 @@ Implémenter le perceptron à plusieurs couches en Python avec les caractéristi
 2. Nombre d'entrées configurables 
 3. Nombre d'époques et taux de formation configurables
 4. Effectuer des prévisions
+
+Tester votre modèle avec des fonctions simple.
 
 #### Exercice 1.4 [★★★]
 Créer un modèle de réseau de neurones en utilisant Tensorflow. Votre objectif est de configurer les différents paramètres de votre modèle et tester le modèle avec l'ensemble de données d'écriture manuscrite du MNIST.
@@ -36,4 +40,4 @@ Créer un modèle de réseau de neurones en utilisant Tensorflow. Votre objectif
 4. Algorithmes d'optimisation
 5. Fonctions de perte
 
-Évaluez votre modèle en utilisant les différents paramètres disponibles
+Évaluez votre modèle en utilisant les différents indicateurs disponibles (précision etc.)
