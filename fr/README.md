@@ -89,8 +89,9 @@ commandes suivantes.
 
 ```
           $ git clone https://github.com/johnsamuelwrites/IA-DeepLearning
-          $ cd ProgC
+          $ cd IA-DeepLearning
           $ ls
+          $ cat fr/README.md
 ```
 
 Pour obtenir les dernières mises à jour du répertoire, vous pouvez exécuter la commande suivante
