@@ -88,13 +88,14 @@ cloner sur votre machine à l'aide du terminal en utilisant les
 commandes suivantes.
 
 ```
-          $ git clone https://github.com/johnsamuelwrites/ProgC
+          $ git clone https://github.com/johnsamuelwrites/IA-DeepLearning
           $ cd ProgC
           $ ls
 ```
 
 Pour obtenir les dernières mises à jour du répertoire, vous pouvez exécuter la commande suivante
-          $ git pull
+
 ```
+          $ git pull
 ```
 
