@@ -27,7 +27,7 @@ For example, you may get the following value
               2.3.1             
 ```
 
-![Artificial neural networks](Colored_neural_network.svg){height="450px"}
+![Artificial neural networks](Colored_neural_network.svg)
 
 In order to create the above neural network model, you can test the
 following code.
