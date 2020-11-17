@@ -7,13 +7,15 @@ Practical sessions for IA and Deep Learning
 * [TP1](fr/TP1/TP1.md)
 * [TP2](fr/TP2/TP2.md)
 * [Mini projet](fr/Projet/miniprojet.md)
+* [Projet](fr/Projet/projet.md)
 
 ## English 
 ### Exercises
 * [Instructions](en/README.md)
 * [TP1](en/practical1/practical1.md)
 * [TP2](en/practical2/practical2.md)
-* [Mini project](en/Projet/miniproject.md)
+* [Mini project](en/Project/miniproject.md)
+* [Project](en/Project/project.md)
 
 # Author
 * John Samuel
