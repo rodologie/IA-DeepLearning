@@ -185,7 +185,7 @@ In the code given below, we select some languages and see the order of
 translation. Copy the code below and plot the graphs for different
 properties. Please note your observations as comments on the notebook.
 
-` 
+```
 import matplotlib 
 import matplotlib.pyplot as plot 
 from dateutil import parser 
@@ -262,7 +262,7 @@ This will give us the following output.
 Now we calculate the frequent itemsets using *apriori* algorithm. Please
 uncomment the print statement to see the intermediate dataframe.
 
-` 
+``` 
 from mlxtend.preprocessing import TransactionEncoder  
 from mlxtend.frequent_patterns import apriori  
 
@@ -344,7 +344,7 @@ observations. Please note them in the notebook as comments.
 Our next goal is to generate the association rules, i.e, rules of the
 form. *A -\> C*, where A is the antecedent and C is the consequent.
 
-` 
+``` 
 from mlxtend.frequent_patterns import association_rules  
 association_rules(frequent_itemsets, metric="confidence", min_threshold=0.95)             
 ```
