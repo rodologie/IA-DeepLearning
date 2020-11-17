@@ -5,8 +5,8 @@ Exercises for practical sessions and projet work of Artificial Intelligence and 
 ### Exercises 
 * [Practicals 1](practical1/practical1.md)
 * [Practicals 2](practical2/practical2.md)
-* [Mini projet](Project/miniproject.md)
-* [Projet](Project/project.md)
+* [Mini project](Project/miniproject.md)
+* [Project](Project/project.md)
 
 #### Objectives
 
@@ -78,7 +78,7 @@ You can view it online using the link above or clone it on your machine using th
           $ git clone https://github.com/johnsamuelwrites/IA-DeepLearning
           $ cd IA-DeepLearning
           $ ls
-          $ cat fr/README.md
+          $ cat en/README.md
 ```
 
 You can run the following command for obtaining the latest modifications on the repository:
