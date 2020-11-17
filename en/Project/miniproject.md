@@ -289,6 +289,8 @@ As we go further below, we see combinations of 3, 4, 5 languages etc.
 
 Please change this value between 0 and 1 and see the output.
 
+``` 
+
   S.No.              support                itemsets
   ------- ---------- ---------------------- ----------
   0       0.998424   (ar)                   
@@ -338,6 +340,7 @@ Please change this value between 0 and 1 and see the output.
   44      0.927840   (nl, en, uk, fr)       
   45      0.753742   (ar, en, ca, nl, uk)   
   46      0.927682   (ar, en, fr, nl, uk)   
+``` 
 
 Repeat the above experiment for descriptions and aliases. What are your
 observations. Please note them in the notebook as comments.
@@ -354,6 +357,7 @@ association_rules(frequent_itemsets, metric="confidence", min_threshold=0.95)
 
 It will give us the following output.
 
+``` 
   S.No.   antecedents   consequents   antecedent support   consequent support   support    confidence   lift       leverage   conviction
   ------- ------------- ------------- -------------------- -------------------- ---------- ------------ ---------- ---------- ------------
   0       (de)          (en)          0.479193             0.988966             0.477932   0.997368     1.008496   0.004026   4.192938
@@ -370,6 +374,7 @@ It will give us the following output.
   11      (ru)          (uk)          0.301387             0.960277             0.300126   0.995816     1.037009   0.010711   9.493695
   12      (de, fr)      (en)          0.391393             0.988966             0.391078   0.999195     1.010343   0.004003   13.698770
   13      (de, uk)      (en)          0.468789             0.988966             0.467686   0.997646     1.008777   0.004069   4.687894
+``` 
 
 Let\'s take a look at one of the association rule *(de, fr)-\>(en)*. The
 confidence score is 0.999195. But this rule states that when we have
@@ -394,11 +399,13 @@ arules.loc[(arules["antecedent_len"]>1) &
    (arules["consequent_len"]>1)]             
 ```
 
+``` 
   S.No.   antecedents   consequents   antecedent support   consequent support   support    confidence   lift       leverage   conviction   antecedent\_len   consequent\_len
   ------- ------------- ------------- -------------------- -------------------- ---------- ------------ ---------- ---------- ------------ ----------------- -----------------
   32      (de, fr)      (en, uk)      0.391393             0.950189             0.383670   0.980266     1.031653   0.011772   2.524088     2                 2
   35      (fr, es)      (en, uk)      0.332755             0.950189             0.326765   0.981999     1.033477   0.010585   2.767124     2                 2
   38      (fr, it)      (en, uk)      0.345523             0.950189             0.338430   0.979471     1.030817   0.010117   2.426342     2                 2
+``` 
 
 Repeat the above experiment for translation of descriptions and aliases.
 Please note down your observations as comments in your notebook.
@@ -467,7 +474,9 @@ translated, given a sequence of available translations.
 Take for example, let\'s assume we have seen the following sequences of
 translation.
 
-```              [['en', 'it', 'fi', 'fr', 'de', 'nl', 'pt', 'pl', 'ca', 'cs']                ['en', 'it', 'fi', 'fr', 'de', 'ilo', 'zh', 'nb']                ['ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs'],                ...              ]             
+```
+              [['en', 'it', 'fi', 'fr', 'de', 'nl', 'pt', 'pl', 'ca', 'cs']                ['en', 'it', 'fi', 'fr', 'de', 'ilo', 'zh', 'nb']                ['ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs'],                ...              ]            
+
 ```
 
 Once your model has been trained using this data, it may be able to
