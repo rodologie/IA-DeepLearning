@@ -475,7 +475,10 @@ Take for example, let\'s assume we have seen the following sequences of
 translation.
 
 ```
-              [['en', 'it', 'fi', 'fr', 'de', 'nl', 'pt', 'pl', 'ca', 'cs']                ['en', 'it', 'fi', 'fr', 'de', 'ilo', 'zh', 'nb']                ['ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs'],                ...              ]            
+              [['en', 'it', 'fi', 'fr', 'de', 'nl', 'pt', 'pl', 'ca', 'cs']
+                ['en', 'it', 'fi', 'fr', 'de', 'ilo', 'zh', 'nb']
+                ['ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs'],
+                ...              ]            
 
 ```
 
