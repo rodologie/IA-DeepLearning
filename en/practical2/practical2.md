@@ -1,12 +1,14 @@
 Academic year: 2020-2021
 ----------------
 
-### Practical Work 2
-
+# Practical Work 2
 
 ### Goals
+* Tensorflow
+* Analyses of texts
+* LSTM models
 
-#### Exercise 2.1
+## Exercise 2.1
 
 Upgrade tensorflow to the latest version.
 
@@ -75,7 +77,7 @@ Observe the different layers. Choose a dataset from Tensorflow:
 <https://www.tensorflow.org/datasets/catalog/overview> and build a model
 for your hypothesis. You can also make use of the existing models.
 
-#### Exercise 2.2
+## Exercise 2.2
 
 Download an HTML page from the internet (e.g.,
 <https://en.wikipedia.org/wiki/Paris>). Choose a long paragraph from the
@@ -97,9 +99,9 @@ report on your results.
 3.  gensim
 4.  Tensorflow
 
-#### Exercise 2.3
+## Exercise 2.3
 
-##### LSTM models
+### LSTM models
 
 **Time Series Prediction with LSTM models**: Please check and run the
 following code
@@ -107,7 +109,7 @@ following code
 
 Observe how sequences are generated in these examples.
 
-#### Submission
+## Submission
 
 -   Rename your notebook as Name1\_Name2\_\[Name3\].ipynb, where Name1,
     Name2 are your names.

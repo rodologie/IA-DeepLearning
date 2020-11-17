@@ -1,10 +1,15 @@
-### Goals
+Academic year: 2020-2021
+------------------------
+
+# Mini Project
+
+## Goals
 
 -   Understanding the translation pattern
 
-#### Exercise 1.1
+## Exercise 1.1
 
-##### Download
+### Download
 
 Download the data from <https://zenodo.org/record/3271358>.
 
@@ -31,7 +36,7 @@ Following is a description of each column.
 4.  type: It could be one of the following values: label, description
     and alias
 
-##### Creation of dataframe
+### Creation of dataframe
 
 ```
                 import pandas as pd
@@ -76,7 +81,7 @@ comments in your notebook.
              print(ptranslation)             
 ```
 
-##### Visualization of translation
+### Visualization of translation
 
 Our next goal is to plot the translation of a property and see whether
 we can observe any translation pattern. Please copy the code below and
@@ -226,7 +231,7 @@ plot.savefig('translation.png')
 fig.show()             
 ```
 
-#### Exercise 1.2
+## Exercise 1.2
 
 We used plotting techniques to manually detect some patterns of
 translation. Now we use other algorithms to see whether groups of
@@ -345,7 +350,7 @@ Please change this value between 0 and 1 and see the output.
 Repeat the above experiment for descriptions and aliases. What are your
 observations. Please note them in the notebook as comments.
 
-#### Exercise 1.3
+## Exercise 1.3
 
 Our next goal is to generate the association rules, i.e, rules of the
 form. *A -\> C*, where A is the antecedent and C is the consequent.
@@ -410,7 +415,7 @@ arules.loc[(arules["antecedent_len"]>1) &
 Repeat the above experiment for translation of descriptions and aliases.
 Please note down your observations as comments in your notebook.
 
-#### Exercise 1.4
+## Exercise 1.4
 
 Our next goal is to visualize the flow of translation. For this purpose,
 we install holoviews and bokeh.
@@ -464,9 +469,9 @@ of your choice (number of languages \> 20).
 
 Use Bokeh/Holoviews chord layout for visualizing the weights as well.
 
-#### Exercise 1.5
+## Exercise 1.5
 
-##### Prediction
+### Prediction
 
 Our final goal is to predict the next language(s) that will be
 translated, given a sequence of available translations.
@@ -542,7 +547,7 @@ model? \...
 **Hint:** You may use recurrent neural network with LSTM (Long
 short-term memory) or word embedding models.
 
-#### Submission
+## Submission
 
 -   Rename your notebook as Name1\_Name2\_\[Name3\].ipynb, where Name1,
     Name2 are your names.
