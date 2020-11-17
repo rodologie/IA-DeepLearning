@@ -256,7 +256,10 @@ print(languageorder)
 This will give us the following output.
 
 ```
-               [['en', 'it', 'fi', 'fr', 'de', 'zh-hans', 'ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs', 'ilo', 'zh', 'nb', 'ko',..         ```
+
+               [['en', 'it', 'fi', 'fr', 'de', 'zh-hans', 'ru', 'hu', 'he', 'nl', 'pt', 'pl', 'ca', 'cs', 'ilo', 'zh', 'nb', 'ko',..        
+
+```
 
 
 Now we calculate the frequent itemsets using *apriori* algorithm. Please
