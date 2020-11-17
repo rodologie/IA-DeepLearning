@@ -6,7 +6,7 @@ Academic year: 2020-2021
 
 ### Goals
 
-#### Exercise 1.1
+#### Exercise 2.1
 
 Upgrade tensorflow to the latest version.
 
@@ -75,7 +75,7 @@ Observe the different layers. Choose a dataset from Tensorflow:
 <https://www.tensorflow.org/datasets/catalog/overview> and build a model
 for your hypothesis. You can also make use of the existing models.
 
-#### Exercise 1.2
+#### Exercise 2.2
 
 Download an HTML page from the internet (e.g.,
 <https://en.wikipedia.org/wiki/Paris>). Choose a long paragraph from the
@@ -97,7 +97,7 @@ report on your results.
 3.  gensim
 4.  Tensorflow
 
-#### Exercise 1.3
+#### Exercise 2.3
 
 ##### LSTM models
 
