@@ -29,7 +29,7 @@ Par exemple, vous pouvez voir la valeur suivante (2.0+)
               2.3.1             
 ```
 
-![Artificial neural networks](Colored_neural_network.svg)
+![Artificial neural networks](../../en/practical2/Colored_neural_network.svg)
 
 Afin de créer le modèle de réseau neuronal ci-dessus, vous pouvez tester le
 code suivant.
