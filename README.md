@@ -12,8 +12,8 @@ Practical sessions for IA and Deep Learning
 ## English 
 ### Exercises
 * [Instructions](en/README.md)
-* [TP1](en/practical1/practical1.md)
-* [TP2](en/practical2/practical2.md)
+* [Practicals 1](en/practical1/practical1.md)
+* [Practicals 2](en/practical2/practical2.md)
 * [Mini project](en/Project/miniproject.md)
 * [Project](en/Project/project.md)
 
