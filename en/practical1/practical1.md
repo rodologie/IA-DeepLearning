@@ -22,7 +22,7 @@ Implement perceptron in Python with the following features
 Test your model with simple functions.
 
 
-## Exercise 1.3 [★★]
+## Exercise 1.3 [★★★]
 Implement the multi-layer Python perceptron with the following features
 1. Configurable activation function
 2. Configurable number of inputs 
