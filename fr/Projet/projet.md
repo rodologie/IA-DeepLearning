@@ -19,3 +19,5 @@ Année: 2020-2021
 ## Analyses
  - 
 
+## Exemple
+ - [Reconnaissance de l'écriture manuscrite à l'aide des données du MNIST](Introduction.ipynb)
