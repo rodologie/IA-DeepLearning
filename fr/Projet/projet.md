@@ -48,7 +48,6 @@ Année: 2020-2021
    - Transcription
 
 
-
-## Exemple
+## Exemples
  - [Reconnaissance de l'écriture manuscrite à l'aide des données du MNIST](Introduction.ipynb)
  - [Classification des textes à l'aide des avis IMDB](Textes.ipynb)

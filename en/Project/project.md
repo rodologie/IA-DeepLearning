@@ -47,3 +47,6 @@ Academic year: 2020-2021
    - Speech commands
    - Transcription
 
+## Examples
+ - [Handwriting recognition using MNIST dataset](Introduction.ipynb)
+ - [Text classification based on IMDB reviews](Texts.ipynb)
