@@ -21,6 +21,8 @@ Practical sessions for IA and Deep Learning
 * John Samuel
 
 ## Archives and Releases
+* [Zenodo](https://doi.org/10.5281/zenodo.4452050)
+* [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/johnsamuelwrites/IA-DeepLearning)
 * [Release Notes](RELEASE.md)
 
 ## Licence
