@@ -1,7 +1,7 @@
 # IA-DeepLearning
 Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profond
 
-## Année: 2020-2021
+## Année: 2021-2022
 ###  Sujets de travaux pratiques
 * [TP1](TP1/TP1.md)
 * [TP2](TP2/TP2.md)

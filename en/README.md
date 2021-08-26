@@ -1,7 +1,7 @@
 # IA-DeepLearning
 Exercises for practical sessions and projet work of Artificial Intelligence and Deep Learning 
 
-## Academic year: 2020-2021
+## Academic year: 2021-2022
 ### Exercises 
 * [Practicals 1](practical1/practical1.md)
 * [Practicals 2](practical2/practical2.md)

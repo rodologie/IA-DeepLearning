@@ -1,4 +1,4 @@
-Academic year: 2020-2021
+Academic year: 2021-2022
 ------------------------
 
 # Project

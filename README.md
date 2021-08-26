@@ -1,6 +1,7 @@
 # IA-DeepLearning
 Practical sessions for IA and Deep Learning
 
+## Année: 2021-2022
 ## Français
 ### Sujets de travaux pratiques et projet
 * [Instructions](fr/README.md)
