@@ -4,78 +4,19 @@ Academic year: 2021-2022
 # Practical Work 2
 
 ### Goals
-* Tensorflow
-* Analyses of texts
-* LSTM models
+1.  Implementation of Multilayer perceptron in Python
+2. Analyses of texts
+3. LSTM models
 
 ## Exercise 2.1
+Implement the multi-layer Python perceptron with the following features
+1. Configurable activation function
+2. Configurable number of inputs 
+3. Configurable number of epochs and training rates
+4. Make predictions
+5. Back-propagation
 
-Upgrade tensorflow to the latest version.
-
-```
-              !pip install tensorflow --upgrade              
-```
-
-See the version installed on your machine
-
-```
-              import tensorflow as tf
-              print(tf.__version__)              
-```
-
-For example, you may get the following value
-
-```
-              2.3.1             
-```
-
-![Artificial neural networks](Colored_neural_network.svg)
-
-In order to create the above neural network model, you can test the
-following code.
-
-```
- from tensorflow.keras.models import Sequential
- from tensorflow.keras.layers import Conv2D
- from tensorflow.keras.layers import MaxPool2D
- from tensorflow.keras.layers import Flatten
- from tensorflow.keras.layers import Dense
- 
- # Creating a sequential model
- model = Sequential()
- model.add(Dense(4, activation='relu', input_shape=(3,)))
- model.add(Dense(units=2, activation='softmax'))
-
- # compiling the model
- model.compile(loss='mse', optimizer='sgd', metrics=['accuracy'])
-```
-
-In the above model, we use Stochastic gradient descent optimizer and
-mean square error as the loss calculator.
-
-In the code below, we use a SGD optimizer using a learning rate of 0.01.
-
-```
- from tensorflow.keras.models import Sequential
- from tensorflow.keras.layers import Conv2D
- from tensorflow.keras.layers import MaxPool2D
- from tensorflow.keras.layers import Flatten
- from tensorflow.keras.layers import Dense
- from tensorflow.keras.optimizers import SGD
-
- # Creating a sequential model
- model = Sequential() 
- model.add(Dense(4, activation='relu', input_shape=(3,)))
- model.add(Dense(units=2, activation='softmax'))
-
- # compiling the model
- sgd = SGD(lr=0.01)
- model.compile(loss='mean_squared_error', optimizer=sgd,metrics=['accuracy'])
-```
-
-Observe the different layers. Choose a dataset from Tensorflow:
-<https://www.tensorflow.org/datasets/catalog/overview> and build a model
-for your hypothesis. You can also make use of the existing models.
+Test your model with simple functions.
 
 ## Exercise 2.2
 
