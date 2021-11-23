@@ -19,6 +19,8 @@ Implémenter le perceptron à plusieurs couches en Python avec les caractéristi
 
 Tester votre modèle avec des fonctions simple.
 
+Référence: [https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch/notebook](https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch/notebook)
+
 ## Exercice 2.2
 
 Téléchargez une page HTML sur Internet (par ex, <https://en.wikipedia.org/wiki/Paris>).
