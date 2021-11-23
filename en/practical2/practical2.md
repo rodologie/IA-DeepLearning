@@ -18,6 +18,8 @@ Implement the multi-layer Python perceptron with the following features
 
 Test your model with simple functions.
 
+Reference: [https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch/notebook](https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch/notebook)
+
 ## Exercise 2.2
 
 Download an HTML page from the internet (e.g.,
