@@ -7,7 +7,7 @@ Practical sessions for IA and Deep Learning
 * [Instructions](fr/README.md)
 * [TP1](fr/TP1/TP1.md)
 * [TP2](fr/TP2/TP2.md)
-* [Mini projet](fr/Projet/miniprojet.md) ([Notebook](en/Project/miniproject.ipynb))
+* [Mini projet](fr/Projet/miniprojet.md) ([Notebook](fr/Projet/miniprojet.ipynb))
 * [Projet](fr/Projet/projet.md)
 
 ## English 
