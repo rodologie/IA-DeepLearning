@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 
 .ipynb_checkpoints/
+
+# Datasets
+datasets/
+
+# CSV, JSON and Text files
+*.csv
+*.json
+*.txt
