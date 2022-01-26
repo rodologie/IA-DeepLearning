@@ -1,3 +1,14 @@
+# v1.2
+===============================================================================
+* Rearrange exercises
+* Add references
+* Add notebook related to Wikidata property translation analysis
+* Add examples on how to load data
+* Add examples related to images
+* Explain the steps for image processing
+* Add examples to compute model prediction and evaluation
+* Add examples to show confusion matrix
+
 # v1.1
 ===============================================================================
 ## English
