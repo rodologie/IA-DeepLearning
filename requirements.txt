@@ -4,6 +4,7 @@ sklearn
 matplotlib
 ipython 
 ipykernel
+ipywidgets
 jupyter-core
 tensorflow
 seaborn
