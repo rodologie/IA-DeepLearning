@@ -6,3 +6,4 @@ ipython
 ipykernel
 jupyter-core
 tensorflow
+seaborn
