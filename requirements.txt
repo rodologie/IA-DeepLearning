@@ -7,3 +7,8 @@ ipykernel
 jupyter-core
 tensorflow
 seaborn
+holoviews
+bokeh
+mlxtend
+tensorflow_datasets
+
