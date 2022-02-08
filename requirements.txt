@@ -12,4 +12,4 @@ holoviews
 bokeh
 mlxtend
 tensorflow_datasets
-
+mathjax>=0.1.2
