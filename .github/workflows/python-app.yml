@@ -28,15 +28,15 @@ jobs:
     - name: Run all Jupyter notebooks
       run: |
         cd en/Project/
-        papermill Data.ipynb tmp.ipynb
-        papermill Introduction.ipynb tmp.ipynb
-        papermill Texts.ipynb  tmp.ipynb
+        #papermill Data.ipynb tmp.ipynb
+        #papermill Introduction.ipynb tmp.ipynb
+        #papermill Texts.ipynb  tmp.ipynb
         papermill miniproject.ipynb  tmp.ipynb
         rm tmp.ipynb
         cd ../../ ; cd fr/Projet/
         #papermill Data.ipynb tmp.ipynb
         #papermill Introduction.ipynb tmp.ipynb
         #papermill Textes.ipynb  tmp.ipynb
-        #papermill miniprojet.ipynb  tmp.ipynb
+        papermill miniprojet.ipynb  tmp.ipynb
         rm tmp.ipynb
 
