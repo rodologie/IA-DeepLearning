@@ -31,12 +31,12 @@ jobs:
         #papermill Data.ipynb tmp.ipynb
         #papermill Introduction.ipynb tmp.ipynb
         #papermill Texts.ipynb  tmp.ipynb
-        papermill miniproject.ipynb  tmp.ipynb
+        papermill miniproject-notebook.ipynb  tmp.ipynb
         rm tmp.ipynb
         cd ../../ ; cd fr/Projet/
         #papermill Data.ipynb tmp.ipynb
         #papermill Introduction.ipynb tmp.ipynb
         #papermill Textes.ipynb  tmp.ipynb
-        papermill miniprojet.ipynb  tmp.ipynb
+        papermill miniprojet-notebook.ipynb  tmp.ipynb
         rm tmp.ipynb
 
