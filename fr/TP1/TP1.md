@@ -1,7 +1,6 @@
-Année: 2021-2022
-----------------
-
 # Travaux pratiques 1
+
+**Année: 2021-2022**
 
 ## Objectifs
 

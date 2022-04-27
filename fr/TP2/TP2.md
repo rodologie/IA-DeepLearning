@@ -1,7 +1,6 @@
-Année: 2021-2022
-----------------
-
 # Travaux pratiques 2
+
+**Année: 2021-2022**
 
 ## Objectifs
 1. Implémentation de Multilayer perceptron en Python

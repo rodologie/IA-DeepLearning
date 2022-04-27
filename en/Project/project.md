@@ -1,7 +1,8 @@
-Academic year: 2021-2022
-------------------------
+
 
 # Project
+
+**Academic year: 2021-2022**
 
 
 ## Project domains 
@@ -51,4 +52,4 @@ Academic year: 2021-2022
  - [Data Processing in Tensorflow](Data.ipynb)
  - [Handwriting recognition using MNIST dataset](Introduction.ipynb)
  - [Text classification based on IMDB reviews](Texts.ipynb)
- - [Understanding Property Translation of Wikidata](miniproject.ipynb)
+ - [Understanding Property Translation of Wikidata](miniproject-notebook.ipynb)

@@ -5,15 +5,13 @@ parts:
   numbered: false
   chapters:
   - file: fr/README.md
-  - file: fr/TP1/tp1.ipynb
-  - file: fr/TP2/tp2.ipynb
-  - file: fr/Projet/miniprojet-notebook.ipynb 
-  - file: fr/Projet/Projet.md
+  - file: fr/TP1/TP1.md
+  - file: fr/TP2/TP2.md
+  - file: fr/Projet/projet.md
 - caption: English
   numbered: false
   chapters:
   - file: en/README.md
-  - file: en/practical1/practical1.ipynb
-  - file: en/practical2/practical2.ipynb
-  - file: en/Project/miniproject-notebook.ipynb
-  - file: en/examples/Examples.ipynb
+  - file: en/practical1/practical1.md
+  - file: en/practical2/practical2.md
+  - file: en/Project/project.md

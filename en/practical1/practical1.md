@@ -1,7 +1,6 @@
-Academic year: 2021-2022
-------------------------
-
 # Practical Work 1 
+
+**Academic year: 2021-2022**
 
 ## Goals
 1.  Recalls on numpy, pandas, scikit-learn etc.

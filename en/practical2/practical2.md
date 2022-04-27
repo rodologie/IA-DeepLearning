@@ -1,7 +1,7 @@
-Academic year: 2021-2022
-----------------
-
 # Practical Work 2
+
+**Academic year: 2021-2022**
+
 
 ### Goals
 1.  Implementation of Multilayer perceptron in Python

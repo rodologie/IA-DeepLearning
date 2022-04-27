@@ -1,7 +1,7 @@
-Année: 2021-2022
-----------------
 
 # Projet
+
+**Année: 2021-2022**
 
 
 ## Domaine du projet
@@ -52,4 +52,4 @@ Année: 2021-2022
  - [Traitement des données dans Tensorflow](Data.ipynb)
  - [Reconnaissance de l'écriture manuscrite à l'aide des données du MNIST](Introduction.ipynb)
  - [Classification des textes à l'aide des avis IMDB](Textes.ipynb)
- - [Comprendre la traduction des propriétés de Wikidata](miniproject.ipynb)
+ - [Comprendre la traduction des propriétés de Wikidata](miniprojet-notebook.ipynb)

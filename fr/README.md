@@ -1,4 +1,4 @@
-# IA-DeepLearning
+# Instructions
 Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profond
 
 ## Année: 2021-2022
