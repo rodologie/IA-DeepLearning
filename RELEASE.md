@@ -1,3 +1,13 @@
+# v1.3
+===============================================================================
+- Add support for Jupyterbook
+- Correct link, errors
+- Update workflow action to stop running Tensorflow code
+- Add mathjax for using Mathematical formulas (LaTeX)
+- Update missing requirements
+- Remove non-existing files
+- Add Github action for running notebooks
+
 # v1.2
 ===============================================================================
 * Rearrange exercises
