@@ -1,15 +1,15 @@
 # Travaux pratiques 1
 
-**Année: 2021-2022**
+**Année: 2022-2023**
 
 ## Objectifs
 
-1.  Rappels sur numpy, pandas, scikit-learn etc.
+1.  Rappels sur numpy, scikit-learn etc.
 2.	Implémentation de perceptron en Python
 3.	Introduction à Tensorflow 2.0+
 
 ## Exercice 1.1 [★]
-Votre premier exercice consiste à télécharger le [notebook Python Jupyter](TP1.ipynb) et à vous familiariser avec les différentes méthodes des bibliothèques: numpy, pandas, scikit-learn etc.
+Votre premier exercice consiste à télécharger le [notebook Python Jupyter](TP1.ipynb) et à vous familiariser avec les différentes méthodes des bibliothèques: numpy, scikit-learn etc.
 
 ## Exercice 1.2 [★★]
 Implémenter perceptron en Python avec les caractéristiques suivantes

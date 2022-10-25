@@ -1,4 +1,4 @@
-Academic year: 2021-2022
+Academic year: 2022-2023
 ------------------------
 
 # Mini Project

@@ -1,6 +1,6 @@
 # Practical Work 2
 
-**Academic year: 2021-2022**
+**Academic year: 2022-2023**
 
 
 ### Goals

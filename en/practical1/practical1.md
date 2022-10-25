@@ -1,9 +1,9 @@
 # Practical Work 1 
 
-**Academic year: 2021-2022**
+**Academic year: 2022-2023**
 
 ## Goals
-1.  Recalls on numpy, pandas, scikit-learn etc.
+1.  Recalls on numpy, scikit-learn etc.
 2.  Implementation of perceptron in Python
 3.  Introduction to Tensorflow 2.0+.
 
