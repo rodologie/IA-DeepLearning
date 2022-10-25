@@ -2,8 +2,13 @@
 
 # Project
 
-**Academic year: 2021-2022**
+**Academic year: 2022-2023**
 
+## Example Notebooks
+ - [Data Processing in Tensorflow](Data.ipynb)
+ - [Handwriting recognition using MNIST dataset](Introduction.ipynb)
+ - [Text classification based on IMDB reviews](Texts.ipynb)
+ - [Understanding Property Translation of Wikidata](miniproject-notebook.ipynb)
 
 ## Project domains 
  - Text
@@ -48,8 +53,3 @@
    - Speech commands
    - Transcription
 
-## Example Notebooks
- - [Data Processing in Tensorflow](Data.ipynb)
- - [Handwriting recognition using MNIST dataset](Introduction.ipynb)
- - [Text classification based on IMDB reviews](Texts.ipynb)
- - [Understanding Property Translation of Wikidata](miniproject-notebook.ipynb)

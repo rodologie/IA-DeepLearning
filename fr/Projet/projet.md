@@ -1,8 +1,13 @@
 
 # Projet
 
-**Année: 2021-2022**
+**Année: 2022-2023**
 
+## Exemples
+ - [Traitement des données dans Tensorflow](Data.ipynb)
+ - [Reconnaissance de l'écriture manuscrite à l'aide des données du MNIST](Introduction.ipynb)
+ - [Classification des textes à l'aide des avis IMDB](Textes.ipynb)
+ - [Comprendre la traduction des propriétés de Wikidata](miniprojet-notebook.ipynb)
 
 ## Domaine du projet
  - Texte
@@ -48,8 +53,3 @@
    - Transcription
 
 
-## Exemples
- - [Traitement des données dans Tensorflow](Data.ipynb)
- - [Reconnaissance de l'écriture manuscrite à l'aide des données du MNIST](Introduction.ipynb)
- - [Classification des textes à l'aide des avis IMDB](Textes.ipynb)
- - [Comprendre la traduction des propriétés de Wikidata](miniprojet-notebook.ipynb)

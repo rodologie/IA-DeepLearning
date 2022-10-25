@@ -8,7 +8,7 @@
 3.  Introduction to Tensorflow 2.0+.
 
 ## Exercise 1.1 [★]
-Your first exercise consists of downloading the [Python Jupiter notebook](../../fr/TP1/TP1.ipynb) and familiarizing yourself with the different methods of the libraries: numpy, pandas, scikit-learn etc.
+Your first exercise consists of downloading the [Python Jupyter notebook](./practical1.ipynb) and familiarizing yourself with the different methods of the libraries: numpy, scikit-learn etc.
 
 ## Exercise 1.2 [★★]
 Implement perceptron in Python with the following features
