@@ -11,6 +11,13 @@
 ## Exercice 1.1 [★]
 Votre premier exercice consiste à télécharger le [notebook Python Jupyter](TP1.ipynb) et à vous familiariser avec les différentes méthodes des bibliothèques: numpy, scikit-learn etc.
 
+Téléchargez cette page web de Wikipedia : https://fr.wikipedia.org/wiki/Paris  et enregistrez le fichier en tant que HTML. Analysez et identifiez toutes les tâches possibles sur cette page. Écrivez un programme pour mettre en œuvre ces tâches. Les tâches possibles sont les suivantes :
+- Extraction et analyse des mots (nombre d'occurrences), des liens (liens d'ancrage, interne et externe) et des images (taille).
+- Extraction et identification des chiffres, des dates, des coordonnées géographiques, des noms propres (noms de personnes et de lieux).
+- Identifier et extraire les données structurées, y compris les tableaux.
+- Différencier les sections et les paragraphes
+
+
 ## Exercice 1.2 [★★]
 Implémenter perceptron en Python avec les caractéristiques suivantes
 1. Fonction d'activation configurable
