@@ -8,7 +8,13 @@
 3.  Introduction to Tensorflow 2.0+.
 
 ## Exercise 1.1 [★]
-Your first exercise consists of downloading the [Python Jupyter notebook](./practical1.ipynb) and familiarizing yourself with the different methods of the libraries: numpy, scikit-learn etc.
+Your first exercise consists of downloading the [Python Jupyter notebook](./practical1.ipynb) and familiarizing yourself with the different methods of the libraries: numpy, scikit-learn etc. 
+
+Download this webpage of Wikipedia: https://fr.wikipedia.org/wiki/Paris and save the file as an HTML. Analyze and identify all the possible tasks on this page. Write a program to implement these tasks. Possible tasks include the following:
+- Extracting and analyzing words (occurrence count), links (anchor links, internal and external), and images (size)
+- Extracting and identifying the numbers, dates, geographical coordinates, proper nouns (names of persons and places)
+- Identifying and extracting the structured data including tables
+- Differentiating the section and paragraphs
 
 ## Exercise 1.2 [★★]
 Implement perceptron in Python with the following features
