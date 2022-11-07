@@ -49,3 +49,6 @@ Tester les modèles LSTM pour prédire les séquences possibles de traductions p
 - Veuillez ne pas soumettre vos images, vos fichiers JSON, TSV et CSV.
 - Compressez et renommez vos travaux pratiques (1 et 2) sous le nom de Name1_Name2_[Name3].zip, où Name1, Name2,... sont vos noms.
 - Soumettez vos travaux pratiques en ligne.
+
+## Références
+- [Multilayer Perceptron Explained with a Real-Life Example and Python Code: Sentiment Analysis](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141)
