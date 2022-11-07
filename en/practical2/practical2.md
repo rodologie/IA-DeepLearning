@@ -48,4 +48,5 @@ Test the LSTM models to predict possible sequences of translations for the final
 -   Compress and rename your practical works (1 and 2) as Name1_Name2_[Name3].zip, where Name1, Name2,... are your names.
 -   Submit your project work online.
 
-
+## References
+- [Multilayer Perceptron Explained with a Real-Life Example and Python Code: Sentiment Analysis](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141)
