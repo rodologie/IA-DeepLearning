@@ -28,3 +28,8 @@ Référence: [https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-s
 
 Observez comment les séquences sont générées dans ces exemples.
 
+## Soumission
+- Veuillez soumettre uniquement vos Jupyter Notebooks.
+- Veuillez ne pas soumettre vos images, vos fichiers JSON, TSV et CSV.
+- Compressez et renommez vos travaux pratiques (1 et 2) sous le nom de Name1_Name2_[Name3].zip, où Name1, Name2,... sont vos noms.
+- Soumettez vos travaux pratiques en ligne.
