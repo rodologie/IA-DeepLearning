@@ -53,3 +53,5 @@ Create a neural network model using Tensorflow. Your goal is to configure the di
 
 Evaluate your model using the different indicators available (accuracy etc.).
 
+## References
+* [How To Implement The Perceptron Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
