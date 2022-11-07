@@ -29,9 +29,9 @@ following code
 Observe how sequences are generated in these examples.
 
 ## Submission
+-   Please submit **only** your Jupyter Notebooks.
+-   Please **don\'t** submit your images, JSON, TSV and CSV files.
+-   Compress and rename your practical works (1 and 2) as Name1_Name2_[Name3].zip, where Name1, Name2,... are your names.
+-   Submit your project work online.
 
--   Rename your notebook as Name1\_Name2\_\[Name3\].ipynb, where Name1,
-    Name2 are your names.
--   Submit your notebook online.
--   Please **don\'t** submit your JSON, TSV and CSV files.
 
