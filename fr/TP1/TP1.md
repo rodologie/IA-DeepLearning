@@ -54,3 +54,6 @@ Créer un modèle de réseau de neurones en utilisant Tensorflow. Votre objectif
 5. Fonctions de perte
 
 Évaluez votre modèle en utilisant les différents indicateurs disponibles (précision etc.)
+
+## Références
+* [How To Implement The Perceptron Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
