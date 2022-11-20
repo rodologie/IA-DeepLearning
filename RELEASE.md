@@ -1,3 +1,8 @@
+# v1.4
+===============================================================================
+- Update and rearrange exercises
+- Update references and submission instructions
+
 # v1.3
 ===============================================================================
 - Add support for Jupyterbook
