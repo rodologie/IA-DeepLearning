@@ -35,23 +35,4 @@ report on your results.
 3.  gensim
 
 ## Exercise 1.3 [★★]
-Implement perceptron in Python with the following features
-1. Configurable activation function
-2. Configurable number of inputs 
-3. Configurable number of epochs and training rates
-4. Make predictions
-
-Test your model with simple functions.
-
-## Exercise 1.4 [★★★]
-Create a neural network model using Tensorflow. Your goal is to configure the different parameters of your model and test it with the MNIST handwriting data set.
-1. The number of hidden layers
-2. The configuration of hidden layers such as the activation function
-3. The dropout rate of your model
-4. Optimization algorithms
-5. Loss functions
-
-Evaluate your model using the different indicators available (accuracy etc.).
-
-## References
-* [How To Implement The Perceptron Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
+You have been asked to model the knowledge base of a school, concerning students, their personal details, their their project groups, management of their grades and different modules. Write a GNU Prolog program with some examples and demonstrate the different rules that you will feed to your knowledge base.
