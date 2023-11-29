@@ -35,25 +35,7 @@ vous utilisez plus de deux packages, rédigez également un petit rapport sur la
 2. spaCy
 3. gensim
 
-## Exercice 1.3 [★★]
-Implémenter perceptron en Python avec les caractéristiques suivantes
-1. Fonction d'activation configurable
-2. Nombre d'entrées configurables 
-3. Nombre d'époques et taux de formation configurables
-4. Effectuer des prévisions
-
-Tester votre modèle avec des fonctions simple.
-
-## Exercice 1.4 [★★★]
-
-Créer un modèle de réseau de neurones en utilisant Tensorflow. Votre objectif est de configurer les différents paramètres de votre modèle et tester le modèle avec l'ensemble de données d'écriture manuscrite du MNIST.
-1. Le nombre de couches cachées
-2. La configuration des couches cachées comme la fonction d'activation
-3. Le taux d'abandon de votre modèle
-4. Algorithmes d'optimisation
-5. Fonctions de perte
-
-Évaluez votre modèle en utilisant les différents indicateurs disponibles (précision etc.)
-
-## Références
-* [How To Implement The Perceptron Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
+## Exercice 1.3 [★★★]
+On vous a demandé de modéliser la base de connaissances d'une école concernant les élèves, leurs informations personnelles, 
+leurs groupes de projet, la gestion de leurs notes et leurs différents modules. Ecrivez un programme GNU Prolog avec quelques 
+exemples et montrez les différentes règles que vous allez alimenter dans votre base de connaissances.
