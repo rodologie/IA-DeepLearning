@@ -1,3 +1,10 @@
+# v1.6
+===============================================================================
+- Add Examples related to NLP
+- Add examples from course slides
+- Add examples related to embedding and NER from slides
+- Update practicals1.md
+
 # v1.5
 ===============================================================================
 - Indent code using black
