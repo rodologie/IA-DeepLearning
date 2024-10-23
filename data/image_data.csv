@@ -1,0 +1,101 @@
+color,shape,size,texture,classification
+green,triangle,400,polka dot,animal
+red,square,150,patterned,plant
+green,square,250,polka dot,object
+yellow,rectangle,200,polka dot,building
+red,circle,200,polka dot,vehicle
+green,square,200,patterned,object
+blue,circle,400,polka dot,plant
+purple,ellipse,250,smooth,object
+blue,ellipse,300,rough,animal
+red,square,200,polka dot,animal
+yellow,ellipse,250,patterned,plant
+purple,rectangle,300,striped,plant
+yellow,triangle,250,smooth,animal
+purple,triangle,300,smooth,vehicle
+purple,ellipse,150,patterned,plant
+purple,circle,150,smooth,building
+blue,rectangle,250,smooth,plant
+purple,ellipse,400,striped,animal
+green,ellipse,200,smooth,vehicle
+purple,triangle,100,patterned,vehicle
+blue,triangle,350,polka dot,plant
+red,ellipse,400,striped,object
+yellow,triangle,300,smooth,vehicle
+green,rectangle,400,smooth,building
+yellow,circle,400,smooth,vehicle
+blue,circle,300,patterned,animal
+purple,ellipse,450,smooth,plant
+yellow,triangle,350,smooth,vehicle
+purple,triangle,150,rough,vehicle
+blue,square,150,polka dot,vehicle
+green,triangle,300,striped,vehicle
+green,ellipse,400,polka dot,plant
+red,triangle,250,rough,vehicle
+red,square,300,smooth,plant
+purple,rectangle,150,smooth,animal
+green,triangle,400,polka dot,plant
+yellow,ellipse,100,smooth,plant
+green,ellipse,250,polka dot,vehicle
+red,rectangle,300,striped,object
+green,circle,450,polka dot,object
+red,triangle,200,smooth,building
+red,triangle,100,rough,building
+green,rectangle,450,rough,building
+green,square,350,striped,vehicle
+yellow,square,350,rough,building
+blue,ellipse,300,patterned,plant
+yellow,rectangle,200,smooth,animal
+blue,ellipse,100,patterned,object
+blue,ellipse,200,polka dot,animal
+blue,square,350,striped,animal
+yellow,triangle,250,polka dot,building
+purple,square,150,patterned,vehicle
+blue,triangle,300,rough,plant
+red,triangle,150,striped,object
+green,triangle,300,patterned,plant
+purple,rectangle,100,patterned,vehicle
+purple,ellipse,400,smooth,animal
+red,triangle,150,rough,object
+yellow,rectangle,250,striped,vehicle
+blue,rectangle,400,striped,vehicle
+blue,triangle,100,smooth,vehicle
+blue,circle,400,polka dot,animal
+red,square,300,polka dot,animal
+blue,ellipse,200,smooth,vehicle
+yellow,circle,450,patterned,plant
+yellow,square,250,patterned,building
+green,circle,250,striped,vehicle
+purple,square,250,smooth,vehicle
+yellow,ellipse,300,polka dot,animal
+blue,rectangle,450,polka dot,animal
+blue,triangle,100,smooth,object
+red,rectangle,450,polka dot,plant
+yellow,triangle,400,smooth,vehicle
+green,square,400,patterned,building
+blue,square,400,smooth,plant
+blue,rectangle,200,smooth,building
+purple,rectangle,400,patterned,object
+purple,ellipse,100,patterned,object
+blue,ellipse,400,polka dot,animal
+yellow,triangle,200,smooth,vehicle
+red,ellipse,350,smooth,object
+yellow,rectangle,300,rough,animal
+yellow,circle,300,smooth,building
+blue,rectangle,450,polka dot,building
+purple,square,300,rough,animal
+red,ellipse,450,rough,building
+red,rectangle,450,polka dot,object
+purple,square,350,polka dot,building
+yellow,rectangle,400,polka dot,object
+yellow,ellipse,150,striped,animal
+yellow,triangle,100,striped,animal
+yellow,rectangle,250,patterned,vehicle
+blue,square,200,polka dot,animal
+green,square,150,striped,building
+yellow,square,100,rough,plant
+yellow,circle,250,rough,plant
+yellow,triangle,350,patterned,building
+yellow,rectangle,100,patterned,animal
+yellow,circle,150,rough,object
+purple,square,350,striped,plant
