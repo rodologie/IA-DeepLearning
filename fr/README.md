@@ -1,9 +1,9 @@
 # Instructions
 Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profond
 
-## Année: 2021-2022
+## Année: 2024-2025
 ###  Sujets de travaux pratiques
-* [TP1](TP1/TP1.md)
+* [TP1](TP1/TP1.ipynb)
 * [TP2](TP2/TP2.md)
 * [Mini projet](Projet/miniprojet.md)
 * [Projet](Projet/projet.md)
@@ -15,6 +15,7 @@ les différents aspects d'intelligence artificielle et d'apprentissage profond. 
 de tous les exercices, vous serez captable de
 
 - mettre en œuvre les sujets suivants :
+    - intelligence artificielle symbolique
     - Le réseau de neurones artificiels
     - L’apprentissage profond
 - créer des modèles de réseaux de neurones en utilisant différentes structures et fonctions d'activation

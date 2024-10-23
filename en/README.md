@@ -1,9 +1,9 @@
 # Instructions
 Exercises for practical sessions and projet work of Artificial Intelligence and Deep Learning 
 
-## Academic year: 2021-2022
+## Academic year: 2024-2025
 ### Exercises 
-* [Practicals 1](practical1/practical1.md)
+* [Practicals 1](practical1/practical1.ipynb)
 * [Practicals 2](practical2/practical2.md)
 * [Mini project](Project/miniproject.md)
 * [Project](Project/project.md)
@@ -14,6 +14,7 @@ The objective of the practical work is to create a project to understand the dif
 Following the completion of all the exercises, you will be able to
 
 - implement the following topics:
+    - symbolic artificial intelligence
     - artificial neural network
     - Deep learning
 - create neural network models using different activation structures and functions
