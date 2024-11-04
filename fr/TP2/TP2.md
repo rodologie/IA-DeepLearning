@@ -1,10 +1,14 @@
 # Travaux pratiques 2
 
-**Année: 2022-2023**
+**Année: 2024-2025**
 
 ## Objectifs
-1. Prolog
-2. Modèles LSTM
+
+1. **Modélisation de connaissances et interrogation de données** : Utiliser un langage logique pour structurer une base de connaissances et créer des règles permettant d’extraire des informations spécifiques à partir des données.
+
+2. **Classification de textes et d'images** : Concevoir et entraîner des modèles de réseaux de neurones pour la classification de textes (exercice 2.2) et d'images (exercice 2.4), en maîtrisant le prétraitement des données, l'optimisation des hyperparamètres, et l'évaluation des performances des modèles.
+
+3. **Prédiction de séquences** : Développer un modèle de prédiction pour des séquences de traductions, en appliquant des techniques de préparation de données séquentielles et en évaluant les performances du modèle sur des données de test.
 
 ## Exercice 2.1
 
@@ -63,6 +67,42 @@ Votre tâche est d'explorer ce jeu de données et de développer un modèle de c
 
 
 ## Exercice 2.3
+
+### Exercice 2.4 : Classification d'Images avec le Dataset CIFAR-10
+
+Dans cet exercice, vous utiliserez le dataset **CIFAR-10** de TensorFlow pour construire et évaluer un modèle de réseau de neurones convolutif (CNN) capable de classifier des images en 10 catégories (avions, voitures, oiseaux, chats, etc.).
+
+#### Objectifs
+
+1. **Chargement et Prétraitement des Données** :
+   - Chargez le dataset CIFAR-10 à partir de `tf.keras.datasets.cifar10`. Ce dataset contient 60 000 images de 32x32 pixels réparties en 10 classes, avec 50 000 images pour l'entraînement et 10 000 pour le test.
+   - Normalisez les valeurs des pixels des images entre 0 et 1 pour faciliter l'apprentissage.
+   - Appliquez des techniques d'augmentation de données (data augmentation) pour rendre le modèle plus robuste. Utilisez des transformations telles que la rotation, le zoom, et le retournement horizontal pour augmenter la diversité des images d'entraînement.
+
+2. **Création d'un Modèle de Réseau de Neurones Convolutif (CNN)** :
+   - Concevez un modèle CNN en utilisant des couches de convolution et de pooling pour extraire les caractéristiques importantes des images.
+   - Structure suggérée :
+     - **Couche de Convolution** : plusieurs filtres (par exemple, 32, 64, 128) avec une petite taille de filtre (3x3), suivis d'une activation ReLU.
+     - **Couche de Pooling** : réduction de la taille des cartes de caractéristiques pour diminuer la complexité (par exemple, max pooling 2x2).
+     - **Couches Denses** : après les couches convolutives, aplatissez les cartes de caractéristiques et ajoutez une ou plusieurs couches entièrement connectées pour la classification.
+     - **Régularisation** : intégrez des techniques de régularisation comme le dropout ou la batch normalization pour éviter le surapprentissage.
+   - Testez différentes architectures en ajoutant ou supprimant des couches pour observer leur impact sur les performances.
+
+3. **Entraînement et Optimisation du Modèle** :
+   - Entraînez le modèle en utilisant la fonction de perte `sparse_categorical_crossentropy`, car il s'agit d'un problème de classification multiclasses.
+   - Utilisez l’optimiseur Adam et testez différents taux d'apprentissage pour voir leur effet sur la convergence (par exemple, commencez avec 0.001).
+   - Ajustez d'autres hyperparamètres comme la taille de batch et le nombre d'époques, afin de trouver une configuration optimale qui équilibre précision et temps de calcul.
+
+4. **Évaluation et Analyse des Performances** :
+   - Évaluez le modèle sur l'ensemble de test et calculez la précision globale ainsi que la précision pour chaque classe.
+   - Générez un rapport de classification (par exemple, avec `classification_report` de `sklearn.metrics`) et une matrice de confusion pour identifier les classes où le modèle est performant et celles où des améliorations sont possibles.
+
+5. **Documentation et Visualisation des Résultats** :
+   - Documentez les configurations testées (nombre de couches, hyperparamètres, etc.) et les performances obtenues.
+   - Visualisez les courbes de précision et de perte d'entraînement et de validation au fil des époques pour analyser le comportement d'apprentissage du modèle.
+   - Affichez des exemples de prédictions correctes et incorrectes afin de mieux comprendre les erreurs du modèle et d'identifier des pistes pour l’améliorer.
+
+## Exercice 2.4
 [Mini projet - comprendre la traduction des propriétés de Wikidata](../Projet/miniprojet-notebook.ipynb)
 
 
