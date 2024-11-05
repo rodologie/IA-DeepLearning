@@ -68,8 +68,6 @@ Votre tâche est d'explorer ce jeu de données et de développer un modèle de c
 
 ## Exercice 2.3
 
-### Exercice 2.4 : Classification d'Images avec le Dataset CIFAR-10
-
 Dans cet exercice, vous utiliserez le dataset **CIFAR-10** de TensorFlow pour construire et évaluer un modèle de réseau de neurones convolutif (CNN) capable de classifier des images en 10 catégories (avions, voitures, oiseaux, chats, etc.).
 
 #### Objectifs
