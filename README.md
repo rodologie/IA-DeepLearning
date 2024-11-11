@@ -7,7 +7,7 @@ Practical sessions for IA and Deep Learning
 * [Instructions](fr/README.md)
 * [TP1](fr/TP1/TP1.ipynb)
 * [TP2](fr/TP2/TP2.md)
-* [TP3](fr/TP3/TP3.md)
+* [TP3](fr/TP3/TP3.ipynb)
 * [Mini projet](fr/Projet/miniprojet.md) ([Notebook](fr/Projet/miniprojet-notebook.ipynb))
 * [Projet](fr/Projet/projet.md)
 
@@ -16,7 +16,7 @@ Practical sessions for IA and Deep Learning
 * [Instructions](en/README.md)
 * [Practicals 1](en/practical1/practical1.ipynb)
 * [Practicals 2](en/practical2/practical2.md)
-* [Practicals 3](en/practical3/practical3.md)
+* [Practicals 3](en/practical3/practical3.ipynb)
 * [Mini project](en/Project/miniproject.md) ([Notebook](en/Project/miniproject-notebook.ipynb))
 * [Project](en/Project/project.md)
 
