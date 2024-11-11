@@ -5,6 +5,7 @@ Sujets de travaux pratiques d'intelligence artificielle et d'apprentissage profo
 ###  Sujets de travaux pratiques
 * [TP1](TP1/TP1.ipynb)
 * [TP2](TP2/TP2.md)
+* [TP3](TP3/TP3.ipynb)
 * [Mini projet](Projet/miniprojet.md)
 * [Projet](Projet/projet.md)
 
