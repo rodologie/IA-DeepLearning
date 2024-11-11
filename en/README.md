@@ -5,6 +5,7 @@ Exercises for practical sessions and projet work of Artificial Intelligence and 
 ### Exercises 
 * [Practicals 1](practical1/practical1.ipynb)
 * [Practicals 2](practical2/practical2.md)
+* [Practicals 3](practical3/practical3.ipynb)
 * [Mini project](Project/miniproject.md)
 * [Project](Project/project.md)
 
